@@ -1219,7 +1219,7 @@ display: flex;
 width: 5vw;
 position: fixed;  
 height: 10vw; 
-right: 2.5vw;
+right: 10vw;
 bottom: 5vw;
 z-index: 200;
 }
